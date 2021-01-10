@@ -1,0 +1,99 @@
+.cabecera{
+    height: 65px;
+    text-shadow: 1px 1px 1px black;
+    background-color: #2f2519;
+    color: #faebd7;   
+}
+.title{
+    font-size: 1.5em;
+    font-weight: lighter;
+    padding: 10px 10px;
+}
+.menu{
+    font-size: 15px;
+    list-style: none;
+    display: flex;
+    right: 30px;
+    padding: 5px 5px;
+    bottom: 26px;
+}
+.menu-link{
+    padding-left: 10px;
+    letter-spacing: .5pt;
+}
+.fondito{
+    border-bottom: 4px solid white;
+    box-shadow: 1px 4px 4px black;
+}
+.sub-title{
+    font-size: 3em;
+    font-weight: lighter;
+    letter-spacing: 2pt;
+    color: white;
+    text-shadow: 0 5px 5px black;
+    margin-top: -400px;
+    text-align: center;
+}
+.sub-title-2{
+    color: white;
+    font-size: 1.5em;
+    font-weight: lighter;
+    text-shadow: 0 5px 5px black;
+    letter-spacing: 5pt;
+    margin-top: 75px;
+    text-align: center;
+}
+.linki{
+    text-align: center;
+    margin-top: 40px;
+}
+.link{
+    font-size: 1em;
+    color: white;
+    letter-spacing: 2pt;
+    font-weight: lighter;
+    text-shadow: 1px 2px 3px black;
+    border: 1px solid white;
+    border-radius: 50px;
+    padding: 7px 5px;
+    text-decoration: none;
+    text-align: center;
+    box-shadow: 0 1px 5px black;
+}
+.link:hover{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    transition: .2s;
+}
+/*Cabecera*/
+
+.boxi-2{
+    margin-top: 350px;
+    border: 1px solid black;
+    text-align: justify;
+    display: block;
+    font-weight: lighter;
+}
+
+.sub-titulo{
+    text-align: center;
+    font-weight: lighter;
+    text-shadow: 0 1px 2px black;
+}
+
+.article-1{
+    font-weight: lighter;
+    border: 1px solid black;
+    text-shadow: 0 1px 2px gray;
+    
+}
+
+
+.footer{
+    text-align: center;
+    font-weight: lighter;
+    text-shadow: 0 1px 1px gray;
+    font-size: 1.5em;
+    
+}
